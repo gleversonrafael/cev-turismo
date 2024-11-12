@@ -1,2 +1,2 @@
 # cev-turismo
-Site: [Um site de turismo](https://gleversonrafael.github.io/cev-turismo/)
+[Clique aqui para acessar o site](https://gleversonrafael.github.io/cev-turismo/)
