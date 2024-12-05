@@ -1,2 +1,1 @@
-# cev-turismo
-[Clique aqui para acessar o site](https://gleversonrafael.github.io/cev-turismo/)
+#Módulo 2 - HTML5 e CSS3 - Gustavo Guanabara
