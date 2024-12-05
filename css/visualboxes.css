@@ -3,6 +3,8 @@
     padding: 40px 5%;
 }
 
+
+
 /* header */
 #mainhd {
     display: flex;
@@ -36,6 +38,8 @@
     /* donde vw = view width e vh = view height */
 }
 
+
+
 /* image's detail boxes */
 .imgdbox {
     min-width: 100%;
@@ -61,6 +65,8 @@
 
 #idboxC { background-color:#b38786;}
 
+
+
 /* sections areas */
 #scA-about {
     background-color: #fcfcfc;
@@ -74,6 +80,8 @@
 #scAspace {
     margin-right: 60px;
 }
+
+
 
 /* sections patterns */
 .scP-countryabout {
@@ -111,6 +119,8 @@
     max-height: auto;
 }
 
+
+
 /* cities images */
 .sc-imgCity {
     min-width: 100%;
@@ -143,7 +153,7 @@
     background-size: cover;
 }
 
-/* articles */
+
 
 /* images */
 #img-cmap {
@@ -183,6 +193,8 @@
     background: linear-gradient(to left,#292929e8, transparent);
 }
 
+
+
 /* plans */
 /* pl sections */
 .sc-genplan {
@@ -212,6 +224,8 @@
     justify-content: center;
 }
 
+
+
 /* pl imgs + div*/
 .img-genplan {
     min-width: 300px;
@@ -221,6 +235,7 @@
 
     border-radius: 5px 5px 0px 0px;
 }
+
 
 /* sing */
 #img-gpSing { /* gp=generic plan */
@@ -243,7 +258,7 @@
 }
 
 
-/* fami */
+/* family */
 #img-gpFami {
     background-image: url(../media/img/others/adap-fam.jpg);    
     background-size: cover;
@@ -273,6 +288,9 @@
     color: #222;
     background-color: #fff;
 }
+
+
+
 
 /* footer */
 #mainf {

@@ -33,10 +33,13 @@ hr { width: 100%;}
 li { list-style-position: inside;}
 
 
+
 /* display style */
 .inl-flex {
     display: inline-flex;
 }
+
+
 
 /* spacements */
 .smlspace { margin-top: 10px;}
@@ -47,10 +50,14 @@ li { list-style-position: inside;}
 
 .bigspace { margin-top: 30px;}
 
+
+
 /* article indent */ 
 .artInd {  margin-left: 15px;} 
 
 .pInd { text-indent: 15px;}
+
+
 
 /* space between - display flex */
 .spacebet-flex {
@@ -89,6 +96,8 @@ li { list-style-position: inside;}
     justify-content: center;
 }
 
+
+
 /* header */
 #hdtitle {    
     color: #fff;
@@ -122,7 +131,7 @@ li { list-style-position: inside;}
     color: #dbe7f0e8;
     text-decoration: none;
     margin-left: 25px;
-    padding: 5px 0px;
+    padding: 5px 10px;
 }
 
 .sphdtext:hover {
@@ -134,6 +143,8 @@ li { list-style-position: inside;}
 
     transition: all 400ms;
 }
+
+
 
 /* list items  and adherents to lists*/
 #scA-about > section > article > ul {
@@ -166,12 +177,15 @@ li { list-style-position: inside;}
 
 .oc-litypeB { background-color: #FAFAFA;}
 
+
+
 /* cities */
 /* alignment */
 .align-cArt {
     margin-right: 2vw;
     margin-bottom: 3vh;
 }
+
 
 /* cities articles(cArt) titles and sub-titles */
 .cArt-title {
@@ -204,6 +218,8 @@ li { list-style-position: inside;}
     color: #707070;
 }
 
+
+
 /* plans */
 .title-gp { /* =titgp */
     color: #fff;
@@ -220,6 +236,8 @@ li { list-style-position: inside;}
     height: auto;
 }
 
+
+
 /* footer */
 #mainf > p{
     font: normal 300 0.8em var(--urbanist);
@@ -234,6 +252,8 @@ li { list-style-position: inside;}
 #fnav > a {
     margin-left: 15px;
 }
+
+
 
 /* media - - - - - - - - - - - - - - - - - - - - - - */
 /* 1000px */
